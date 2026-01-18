@@ -12,3 +12,11 @@ This repository contains my structured learning and practice of the core foundat
 To build strong mathematical intuition and practical understanding for Machine Learning and Data Science.
 
 ## Structure
+probability/
+statistics/
+linear_algebra/
+
+## Tools
+- Python
+- NumPy
+- Matplotlib
