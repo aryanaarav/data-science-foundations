@@ -18,14 +18,14 @@ This repository serves as a practice space where concepts from the book are impl
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.x installed on your machine
 - Required libraries: NumPy, Matplotlib, SciPy (install via `pip install numpy matplotlib scipy`)
 
 ## How to Use
 
 1. Clone or download the repository.
 2. Navigate to the `SimulationUsingPython` folder.
-3. Run the Python scripts using `python script_name.py`.
+3. Run the Python scripts using `python script_name.py` or jupyter notebook `notebookname_.ipynb`.
 4. Modify and experiment with the code to understand the simulations better.
 
 ## Contents
