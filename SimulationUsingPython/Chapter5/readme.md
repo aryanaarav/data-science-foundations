@@ -1,10 +1,10 @@
-# Chapter 6: Population Growth Simulation
+# Chapter 5: Population Growth Simulation
 
-This folder contains practice code and examples for Chapter 6 of Allen Downey's book *Modeling and Simulation in Python*, focusing on population growth models.
+This folder contains practice code and examples for Chapter 5 of Allen Downey's book *Modeling and Simulation in Python*, focusing on population growth models.
 
 ## Overview
 
-Chapter 6 explores population dynamics using differential equations and simulation techniques. It covers:
+Chapter 5 explores population dynamics using differential equations and simulation techniques. It covers:
 
 - Exponential growth models
 - Logistic growth models
